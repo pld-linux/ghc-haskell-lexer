@@ -6,7 +6,7 @@
 Summary:	A fully compliant Haskell 98 lexer
 Name:		ghc-%{pkgname}
 Version:	1.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/haskell-lexer
